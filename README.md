@@ -51,7 +51,7 @@ ii)	#Insertion Sort
 ''' 
 Program to sort the elements in the list using the Insertion Sort algorithm.
 Developed by: KAVINESH M
-RegisterNumber: 22008475
+RegisterNumber: 22008476
 '''
 def insertion_sort(nums):
     for i in range(1,len(nums)):
